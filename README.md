@@ -1,10 +1,10 @@
 ### Hi guys I'm Bebop 🙋‍♂️
 
 I want to be a Web FE developer.
+🌱 I’m currently learning JS, React
 
 [![Bebop's github stats](https://github-readme-stats.vercel.app/api?username=sharpcoder312&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-🌱 I’m currently learning JS, React
+
 
 ### 🛠 Tech Stack 🛠
  
